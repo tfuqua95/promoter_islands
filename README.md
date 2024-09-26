@@ -1,5 +1,5 @@
 # promoter_islands
-A data respository for our manuscript: "A complex interplay of gaining and losing motifs facilitates promoter emergence and evolution."
+A data respository for our manuscript: "The emergence and evolution of gene expression in genome regions replete with regulatory motifs." The manuscript is available here: https://elifesciences.org/reviewed-preprints/98654
 
 Within this repository you will find the Supplemental Data files as well as a Jupyter Notebook "Fuqua_et_al_revision.ipynb" to recreate the analyses used in this study. 
 
